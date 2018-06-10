@@ -1,0 +1,7 @@
+name = Korpus
+description = Korpus page and functionality
+package = Custom
+core = 7.x
+
+dependencies[] = ctools
+files[] = korpus.module
