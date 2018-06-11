@@ -749,7 +749,96 @@ body.front h1.page-title {
 	/*background-color: #fff;*/
 /*}*/
 
+ul.menu{
+    background-color: #FFFAF0;
+}
+body{
+    background-color: red;
+}
 
+.views-row-first .field-content a {
+    color: #4682B4;
+}
+.views-row-even .field-content a {
+    color: green;
+}
+.views-row-last .field-content a {
+    color: #696969;
+}
+
+.slide-text-wrapper .field-content a{
+    font-family: Helvetica, sans-serif;
+    font-size: 28px;
+    font-weight: 400;
+    text-decoration: none;
+}
+
+.slide-text-wrapper .field-content a:hover{
+    color: #EE6363;
+}
+
+.slide-text-wrapper .field-content{
+    font-size: 15px;
+    font-family: Helvetica, sans-serif;
+    color: #104E8B;
+    font-weight: 600;
+    padding-top: 3px;
+    padding-bottom: 1px;
+}
+ul.menu li a {
+    
+    font-size: 21px;    
+    background: red;
+    -webkit-background-clip: text;    
+    font-family: Helvetica, sans-serif;
+}
+
+ul.menu{
+    text-align: center;
+}
+ul.menu a:hover {
+    color: #EE6363;
+}
+
+
+.slide-text-wrapper .views-label{
+    font-size: 15px;
+    font-weight: 100;
+    font-family: Helvetica, sans-serif;
+    color: #104E8B;
+    font-weight: 500;
+}
+
+
+
+
+
+.slide-text-wrapper a {
+    color: #FF3030;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.slide-text-wrapper a:hover{
+    color: #FF7256;
+}
+
+.date-display-range{
+    font-size: 13px;
+    font-weight: 500;
+    color: #FF6347;
+    text-decoration: none;
+}
+
+.view.view-id-homepage_conf_slides.view-display-id-block .views-row .slide-text-wrapper{
+    line-height: 20px;
+}
+
+.field-content{
+    
+    font-weight: 600;
+}
 
 
 
